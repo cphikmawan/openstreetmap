@@ -1,5 +1,5 @@
 # Nama
-Cahya Putra HikmawanSSS
+Cahya Putra Hikmawan
 
 # openstreetmap-tile-server
 
